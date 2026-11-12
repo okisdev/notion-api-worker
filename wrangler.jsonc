@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "notion-api-worker",
+  "account_id": "5834e50af35a59c10d028ff44cbd68d9",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-10",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true }
+}
